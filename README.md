@@ -1,2 +1,2 @@
-# projeto-gerenciamento-configuracao.
+# projeto-gerenciamento-configuracao
 Atividade prática de gerenciamento de configuração de software.
